@@ -8,6 +8,9 @@ edition = "2018"
 [workspace]
 members = [
     "karp",
+    "karp-eventually",
+    "karp-eventmill",
+    "karp-eventsourcing",
     "webapp",
     "cliapp",
 ]

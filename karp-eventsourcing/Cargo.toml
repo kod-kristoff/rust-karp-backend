@@ -1,0 +1,10 @@
+[package]
+name = "karp-eventsourcing"
+version = "0.1.0"
+authors = ["Kristoffer Andersson <6058164+kod-kristoff@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eventsourcing = "0.1.5"
